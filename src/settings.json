@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!",
+        "title": "Drive Your Dreams, Rent With Ease"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Drive Your Dreams, Rent With Ease",
+  "subtitle": "Unlock the key to freedom with our hassle-free car rentals. Your adventure starts here!"
+}
